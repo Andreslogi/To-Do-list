@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: gray;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -66,3 +66,6 @@ button.delete-btn:hover {
     background-color: #c82333;
 }
 
+.lista {
+    color: whitesmoke;
+}
